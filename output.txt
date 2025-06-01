@@ -1,0 +1,14 @@
+PS C:\Users\MANE\Desktop\cloudqa> dotnet restore
+Restore complete (1.4s)
+
+Build succeeded in 3.3s
+PS C:\Users\MANE\Desktop\cloudqa> dotnet run
+Starting ChromeDriver 136.0.7103.113 (76fa3c1782406c63308c70b54f228fd39c7aaa71-refs/branch-heads/7103_108@{#3}) on port 54134
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully on port 54134.
+
+DevTools listening on ws://127.0.0.1:54137/devtools/browser/ce64d8e9-9b60-4770-9475-4cda6762e09e
+✅ Test passed: All fields filled successfully.
+Press any key to close the browser...
+x
